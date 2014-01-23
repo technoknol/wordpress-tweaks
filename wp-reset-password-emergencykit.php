@@ -1,8 +1,7 @@
 <?php
 
-/**********************************************************
+/* 	*********************************************************
 Warnings 
-
 	Requires you know the administrator username.
 	It updates the administrator password and sends an email to the administrator's email address.
 	If you don't receive the email, the password is still changed.
@@ -19,7 +18,7 @@ Directions for use
 
 Resources :     	http://www.devlounge.net/publishing/reset-a-wordpress-password-from-phpmyadmin
 Another Methods :   http://codex.wordpress.org/Resetting_Your_Password
-************************************************************/
+***********************************************************	*/
 
 
 /*
