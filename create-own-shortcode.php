@@ -34,6 +34,7 @@ This code will allow you to create your own shortcode.
           
           	if( $id != null)   {
                 return '<script src="http://gist.github.com/'.$id.'.js"></script>';
+          	}
             }  
           
         add_shortcode('gist-git', 'show_git');
